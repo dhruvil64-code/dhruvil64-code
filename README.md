@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Dhruvil Patel 👋
 
-<!--
-**dhruvil64-code/dhruvil64-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student
 
-Here are some ideas to get you started:
+💻 Skills
+- HTML
+- CSS
+- JavaScript
+- Java
+- Git & GitHub
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Web Development
+- Java
+- Git
+- Data Analysis
+
+🚀 Goal
+To become a skilled Software Developer and Data Analyst.
+
+📍 Surat, Gujarat, India
